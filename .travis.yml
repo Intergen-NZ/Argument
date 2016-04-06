@@ -1,0 +1,9 @@
+language: csharp
+solution: Argument.sln
+
+install:
+  - nuget restore -source "https://www.nuget.org/api/v2" -Verbosity quiet
+
+script:
+  # Building Project
+  - xbuild /p:Configuration=Release Argument.sln /p:TargetFrameworkVersion="v4.5" 
