@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Argument
+namespace Intergen.Common.Argument
 {
     /// <summary>
     /// Represents a validator that simplifies checking method and constructor arguments and throws the appropriate exceptions.
