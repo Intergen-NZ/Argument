@@ -2,9 +2,9 @@
 <package>
     <metadata>
         <!-- The unique identifier for the package. This is the package name that is shown when packages are listed using the Package Manager Console. These are also used when installing a package using the Install-Package command within the Package Manager Console. Package IDs may not contain any spaces or characters that are invalid in an URL. In general, they follow the same rules as .NET namespaces do. So Foo.Bar is a valid ID, Foo! and Foo Bar are not. -->
-        <id>Integen.Argument</id>
-        <version>1.1.0.0</version>
-        <title>Intergen Argument Validator Temporary</title>
+        <id>Intergen.Common.Argument</id>
+        <version>1.0.0.0</version>
+        <title>Intergen Argument Validator</title>
         <authors>Opender Singh</authors>
         <owners>Intergen Ltd</owners>
         <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
@@ -17,6 +17,6 @@
         <tags>Argument NullCheck</tags>
     </metadata>
     <files>
-        <file src="Argument/bin/Release/Argument.dll" target="lib/net40" />
+        <file src="Argument/bin/Release/Intergen.Argument.dll" target="lib/net40" />
     </files>
 </package>
