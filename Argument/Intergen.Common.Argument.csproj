@@ -7,7 +7,7 @@
     <ProjectGuid>{0D109605-0ECD-4158-8806-64758A2759FE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Intergen.Common.Argument</RootNamespace>
+    <RootNamespace>Intergen.Common</RootNamespace>
     <AssemblyName>Intergen.Common.Argument</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
