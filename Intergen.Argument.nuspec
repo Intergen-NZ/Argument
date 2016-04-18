@@ -17,6 +17,6 @@
         <tags>Argument NullCheck</tags>
     </metadata>
     <files>
-        <file src="Argument/bin/Release/Intergen.Argument.dll" target="lib/net40" />
+        <file src="Argument/bin/Release/Intergen.Common.Argument.dll" target="lib/net40" />
     </files>
 </package>
