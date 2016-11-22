@@ -51,7 +51,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Argument.snk" />
-    <None Include="Intergen.Argument.nuspec" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
